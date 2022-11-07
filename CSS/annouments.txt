@@ -1,0 +1,1 @@
+Se utilizo una paleta de estilos para la realizacion de este sitio web, con el framework front-end BOOSTRAPS 5
